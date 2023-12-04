@@ -55,3 +55,10 @@ manajement toko ini hanya bersifat api saja tanpa adanya ui
 
 ### todo
 - [ ] Migration Database 
+
+
+## 04 Des Migration Automation
+## 05 Des Login With JWT
+## 06 Manajement User
+## 08 Manajement Product
+## 10 Manajement order
